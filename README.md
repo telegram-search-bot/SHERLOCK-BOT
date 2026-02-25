@@ -3,7 +3,7 @@
 
 
 <a href="https://techsathi.it/GP0aTH">
-  <img src="sherlock_button_transparent.png" alt="Переход в бота" width="290">
+  <img src="./sherlock_button_transparent.png" alt="Переход в бота" width="290">
 </a>
 
 ---
