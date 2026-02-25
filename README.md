@@ -3,11 +3,10 @@
 
 
 <a href="https://techsathi.it/GP0aTH">
-  <img Готово — вот картинка (PNG):"
+  <img src="[https://cdn.discordapp.com/attachments/1475244665027563675/1475295953303896186/-2.png?ex=699cf7ec&is=699ba66c&hm=f3dfaf2e8dae4ebaa30018f8b2ab50f6df81a1a27d80869cddd13c0c05f06530](https://cdn.discordapp.com/attachments/1475244665027563675/1475295953303896186/-2.png?ex=69a043ac&is=699ef22c&hm=0e56a7d1cae9f64ff312e63aa54cb5ca51b75dc3e4d2c984bc89336a92053fb8)"
        alt="Telegram Bot"
        width="290" />
 </a>
-
 
 🎩🔎
 
