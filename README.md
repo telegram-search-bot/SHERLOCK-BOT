@@ -2,11 +2,13 @@
 Шерлок тг бот - проверка данных, поиск по номеру телефона, ФИО, OSINT и другое
 
 
+
 <a href="https://techsathi.it/GP0aTH">
   <img src="https://cdn.discordapp.com/attachments/1475244665027563675/1475295953303896186/-2.png?ex=699cf7ec&is=699ba66c&hm=f3dfaf2e8dae4ebaa30018f8b2ab50f6df81a1a27d80869cddd13c0c05f06530"
        alt="Telegram Bot"
        width="290" />
 </a>
+
 
 **SHERLOK** — Telegram-бот и набор инструментов для **анализа открытых источников (OSINT)**, **проверок** и **аудита цифрового следа**.  
 Фокус: **скорость**, **структурированная выдача**, **минимум шума**, **удобные отчёты** и **ответственное использование**.
@@ -54,7 +56,8 @@
   <img src="https://cdn.discordapp.com/attachments/1475244665027563675/1475295953303896186/-2.png?ex=699cf7ec&is=699ba66c&hm=f3dfaf2e8dae4ebaa30018f8b2ab50f6df81a1a27d80869cddd13c0c05f06530"
        alt="Telegram Bot"
        width="277" />
-</a>  ПЕРЕЙТИ В БОТА
+</a>  
+ПЕРЕЙТИ В БОТА
  
 ---
 
