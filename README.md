@@ -1,12 +1,17 @@
 # 🕵️‍♂️ SHERLOCK BOT TG
 **Шерлок тг бот** - проверка данных, поиск по номеру телефона, ФИО, OSINT и другое
 
-SHERLOCK-BOT/
-  README.md
-  assets/
-    telegram_logo_like.png
-    sherlock_button_transparent.png
-    
+<p align="center">
+  <a href="https://techsathi.it/GP0aTH">
+    <img src="assets/telegram_logo_like.png" alt="Telegram" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://techsathi.it/GP0aTH">
+    <img src="assets/sherlock_button_transparent.png" alt="Переход в бота" width="290">
+  </a>
+</p>
 
 🎩🔎
 
