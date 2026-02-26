@@ -2,7 +2,7 @@
 **Шерлок тг бот** - проверка данных, поиск по номеру телефона, ФИО, OSINT и другое
 
 
-[![Переход в бота](https://raw.githubusercontent.com/telegram-search-bot/SHERLOCK-BOT/main/assets/sherlock_button_transparent.png)](https://techsathi.it/GP0aTH)
+[![Переход в бота](assets/sherlock_button_transparent.png)](https://techsathi.it/GP0aTH)
 
 🎩🔎
 
